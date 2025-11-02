@@ -58,7 +58,7 @@ Gli include sono sviluppati con intelligenza e compatibilità in mente:
 
 ## Licenza
 
-Copyright © **SA-MP Programming Community**
+Copyright © **AlderGrounds**
 
 Questo software è concesso in licenza secondo i termini della Licenza MIT ("Licenza"); è possibile utilizzare questo software in conformità con le condizioni della Licenza. Una copia della Licenza può essere ottenuta su: [MIT License](https://opensource.org/licenses/MIT)
 
@@ -79,7 +79,7 @@ Tutte le copie o parti sostanziali del software devono includere:
 
 #### 3. Diritti d'Autore
 
-Il software e tutta la documentazione associata sono protetti dalle leggi sul diritto d'autore. La **SA-MP Programming Community** mantiene la titolarità dei diritti d'autore originali del software.
+Il software e tutta la documentazione associata sono protetti dalle leggi sul diritto d'autore. La **AlderGrounds** mantiene la titolarità dei diritti d'autore originali del software.
 
 #### 4. Esclusione di Garanzia e Limitazione di Responsabilità
 

@@ -20,7 +20,7 @@ O Maps Collection é um repositório dedicado a disponibilizar gratuitamente uma
   - [Idiomas](#idiomas)
   - [Índice](#índice)
   - [Características](#características)
-  - [Mapeamentos](#mapeamentos)
+  - [Mapeamemtos](#mapeamemtos)
     - [Auto Oficina](#auto-oficina)
   - [Licença](#licença)
     - [Termos e Condições de Uso](#termos-e-condições-de-uso)
@@ -42,7 +42,7 @@ Os includes são desenvolvidos com inteligência e compatibilidade em mente:
 - Se o plugin [streamer](https://github.com/samp-incognito/samp-streamer-plugin) estiver ativo, os objetos são criados utilizando `CreateDynamicObject()`.
 - Caso o include/plugin [streamer](https://github.com/samp-incognito/samp-streamer-plugin) não esteja presente, os objetos são criados com `CreateObject()`.
 
-## Mapeamentos
+## Mapeamemtos
 
 ### Auto Oficina
 
@@ -58,7 +58,7 @@ Os includes são desenvolvidos com inteligência e compatibilidade em mente:
 
 ## Licença
 
-Copyright © **SA-MP Programming Community**
+Copyright © **AlderGrounds**
 
 Este software é licenciado sob os termos da Licença MIT ("Licença"); você pode utilizar este software de acordo com as condições da Licença. Uma cópia da Licença pode ser obtida em: [MIT License](https://opensource.org/licenses/MIT)
 
@@ -79,7 +79,7 @@ Todas as cópias ou partes substanciais do software devem incluir:
 
 #### 3. Direitos Autorais
 
-O software e toda a documentação associada são protegidos por leis de direitos autorais. A **SA-MP Programming Community** mantém a titularidade dos direitos autorais originais do software.
+O software e toda a documentação associada são protegidos por leis de direitos autorais. A **AlderGrounds** mantém a titularidade dos direitos autorais originais do software.
 
 #### 4. Isenção de Garantias e Limitação de Responsabilidade
 

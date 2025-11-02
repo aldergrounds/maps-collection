@@ -58,7 +58,7 @@ The includes are developed with intelligence and compatibility in mind:
 
 ## License
 
-Copyright © **SA-MP Programming Community**
+Copyright © **AlderGrounds**
 
 This software is licensed under the terms of the MIT License ("License"); you may use this software according to the License terms. A copy of the License can be obtained at: [MIT License](https://opensource.org/licenses/MIT)
 
@@ -79,7 +79,7 @@ All copies or substantial portions of the software must include:
 
 #### 3. Copyright
 
-The software and all associated documentation are protected by copyright laws. The **SA-MP Programming Community** retains the original copyright of the software.
+The software and all associated documentation are protected by copyright laws. The **AlderGrounds** retains the original copyright of the software.
 
 #### 4. Disclaimer of Warranty and Limitation of Liability
 

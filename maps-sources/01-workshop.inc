@@ -1,6 +1,6 @@
 /*
  * Maps Collection - Maps for SA-MP (San Andreas Multiplayer)
- * Copyright (c) SA-MP Programming Community
+ * Copyright (c) AlderGrounds
  *
  * Licensed under the MIT License (https://opensource.org/licenses/MIT)
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -41,7 +41,8 @@
 #define 01_MAP_NAME_01 "Auto"
 #define 01_MAP_NAME_02 "Oficina"
 
-public OnPlayerConnect(playerid) {
+public OnPlayerConnect(playerid)
+{
     RemoveBuildingForPlayer(playerid, 673, 2495.270, -1538.010, 22.867, 0.250);
     
     #if defined MCI_01_OnPlayerConnect
@@ -51,7 +52,8 @@ public OnPlayerConnect(playerid) {
     #endif
 }
 
-public OnGameModeInit() {
+public OnGameModeInit()
+{
     print(" ");
     print("__________________________________________________________________");
     print("||==============================================================||");
